@@ -1,0 +1,25 @@
+.container{
+    justify-items: left;
+    justify-content: center;
+}
+th{
+    justify-items: center;
+}
+
+.panel-body{
+    display: flex;
+    
+}
+.radio{
+    display: flex;
+}
+
+label{
+    display: flex;
+}
+.panel-heading{
+    display: flex;
+}
+.btn{
+    margin: 10px;
+}
